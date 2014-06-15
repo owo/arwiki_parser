@@ -1,6 +1,8 @@
 ## About
 **arwiki_parser** is a small python script for extracting plain text articles from
-Arabic Wikipedia dumps. Grab the fresh dumps from [here](http://dumps.wikimedia.org/arwiki/latest/arwiki-latest-pages-articles-multistream.xml.bz2) and give **arwiki_parser** a try.
+Arabic Wikipedia dumps. Grab the fresh dump from 
+[here](http://dumps.wikimedia.org/arwiki/latest/arwiki-latest-pages-articles-multistream.xml.bz2),
+extract it,  and give **arwiki_parser**  a try.
 
 
 ## Requirements:
