@@ -22,7 +22,7 @@ $ python arwiki_parser.py path/to/dump.xml path/to/output/dir/
 The script will extract each article into separate files. To make dealing with 
 the files easier on a window manager, the files are distributed across 256 
 directories with hexadecimal names *00-ff*. All articles are stored as
-*<article_id>.txt*. The first line in each file is always the title of the
+*&lt;article_id&gt;.txt*. The first line in each file is always the title of the
 article.
 
 
